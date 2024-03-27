@@ -37,3 +37,11 @@ p {
     margin: 0;
     font-size: 2em;
 }
+
+.logo {
+    display: block;
+    margin: 0 auto; /* Centers the logo horizontally */
+    padding-top: 20vh; /* Adjust this to place the logo correctly vertically */
+    max-width: 60%; /* Adjust based on your logo's size */
+    height: auto; /* Keeps the aspect ratio of the logo */
+}
