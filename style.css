@@ -41,8 +41,9 @@ p {
 .logo {
     display: block;
     margin: 0 auto; /* Centers the logo horizontally */
-    padding-top: 5vh; /* Reduced to move the logo up */
-    max-width: 10%; /* Reduced to make the logo smaller */
-    height: auto; /* Keeps the aspect ratio of the logo */
+    padding-top: 5vh; /* Moves the logo closer to the top */
+    width: 150px; /* Sets the exact width of the logo */
+    height: auto; /* Adjusts the height automatically to maintain aspect ratio */
 }
+
 
